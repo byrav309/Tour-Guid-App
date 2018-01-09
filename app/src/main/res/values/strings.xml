@@ -1,0 +1,91 @@
+<resources>
+    <string name="app_name">Tour Guide App</string>
+    <string name="places">Places</string>
+    <string name="malls">Malls</string>
+    <string name="hospitals">Hospital</string>
+    <string name="restaurants">Restaurant</string>
+    <string name="no_title">No Title</string>
+    <string name="no_address">No Address available</string>
+    <string name="no_phone">No Phone number available</string>
+    <string name="no_website">No Website availbale</string>
+    
+    <string name="iskon">ISKCON Bengaluru</string>
+    <string name="iskno_address">Hare Krishna Hill, Chord Road, Rajaji Nagar, 1st R Block, Rajaji Nagar, Bengaluru, Karnataka 560010</string>
+    <string name="iskon_phone">08023471956</string>
+    <string name="iskon_website">hhtps://www.iskconbangalore.com</string>
+
+    <string name="lalbagh">Lalbagh Botanical Garden</string>
+    <string name="lalbagh_address">Mavalli, Bengaluru, Karnataka 560004</string>
+    <string name="lalbagh_phone">08026570181</string>
+    <string name="lalbagh_website">http://www.horticulture.kar.nic.in/lalbagh</string>
+
+    <string name="vidhana_soudha">Vidhana Soudha</string>
+    <string name="vidhana_soudha_address">Ambedkar Veedhi, Sampangi Rama Nagar, Bengaluru, Karnataka 560001</string>
+    <string name="vidhana_soudha_phone">0987654321</string>
+    <string name="vidhana_soudha_website">http://www.kla.kar.nic.in</string>
+
+    <string name="banneragatta">Bannerghatta National Park</string>
+    <string name="banneragatta_address">Bannerghatta Road, Bannerghatta Circle, Bannerghatta, Bengaluru, Karnataka 560083</string>
+    <string name="banneragatta_phone">08884414268</string>
+    <string name="bannergatta_website">http://bannerghattabiologicalpark.org</string>
+    
+    <string name="apollo_hospital">Apollo Hospital</string>
+    <string name="apollo_address">Bannerghatta road, Hulimavu, Bengaluru, Karnataka 560076 </string>
+    <string name="apollo_phone">0987654321</string>
+    <string name="apollo_website">http://bangalore.apollohospitals.com</string>
+
+    <string name="bgs_global_hospital">BGS Global Hospital</string>
+    <string name="bgs_address">Uttarahalli Main road, Srinivaspura, Bangalore Karnataka 560098</string>
+    <string name="bgs_phone">0987654321</string>
+    <string name="bgs_website">http://bgs.hospital.com</string>
+
+    <string name="columbia_asia_hospital">Columbia Asia Hospital</string>
+    <string name="columbia_address">Kirloskar Business Park, Bellary road, Hebbal, Bengalure, Karnataka 560024</string>
+    <string name="columbia_phone">08041791000</string>
+    <string name="columbia_website">http://india.columbiaasia.com</string>
+
+    <string name="narayana_hrudayalaya">Narayana Hrudayalaya</string>
+    <string name="narayana_address">Hosur Road, Bommasandra Industrial Area, Bengalure, Karnataka 560099</string>
+    <string name="narayana_phone">08071222222</string>
+    <string name="narayana_website">http://www.narayanahealth.org</string>
+    
+    <string name="barbeque">Barbeque Nation</string>
+    <string name="barbeque_address">100 Feet road, HAL 2nd stage, Indira Nagar, Domlur, Bengaluru, Karnataka 560038</string>
+    <string name="barbeque_phone">08060600000</string>
+    <string name="barbeque_website">http://barbeque-nation.com</string>
+    
+    <string name="nandini_restaurant">Nandhini Restaurant</string>
+    <string name="nandini_address">Kormangala Road, Adugodi, Bengaluru, Karnataka 560030</string>
+    <string name="nandini_phone">0987654321</string>
+    <string name="nandini_website">http://www.nandhini.com</string>
+
+    <string name="punjabi_grill">Punjabi Grill</string>
+    <string name="punkabi_address">7th Block, Koramangala, Bengaluru, Karnataka 560095</string>
+    <string name="punkabi_phone">08040902161</string>
+    <string name="punjabi_website">http://www.liveinstyle.com</string>
+    
+    <string name="taj_vivant">Vivanta By Taj</string>
+    <string name="taj_address">MG Road, Sampangi Rama Road, Bengaluru, Karnataka 560001</string>
+    <string name="taj_phone">08066604444</string>
+    <string name="taj_website">http://www.taj-vivant.com</string>
+
+    <string name="gopalan_mall">Gopalan Innovation Mall</string>
+    <string name="gopalan_address">Bannergatta Main Road, JP Nagar, Bengaluru, Karnataka 560076</string>
+    <string name="gopalan_phone">08026580566</string>
+    <string name="gopalan_website">http://www.gopalanmall.com</string>
+    
+    <string name="mantri_mall">Mantri Square Mall</string>
+    <string name="mantri_address">Sampige Road, Malleshwaram, Bengaluru, Karnataka 560003</string>
+    <string name="mantri_phone">08030160000</string>
+    <string name="mantri_website">http://mantrisquare.com</string>
+    
+    <string name="orion_mall">Orion Mall</string>
+    <string name="orion_address">Rajkumar Road, Malleshwaram west, Rajaji Nagar, Bengaluru, Karnataka 560055</string>
+    <string name="orion_phone">08067282222</string>
+    <string name="orion_website">http://www.orionmalls.com</string>
+    
+    <string name="royal_meenakshi">Royal Meenakshi Mall</string>
+    <string name="royal_address">Bannergatta Main Road, Hulimavu, Bengalure, Kaarnataka 560076</string>
+    <string name="royal_phone">08067080100</string>
+    <string name="royal_website">http://www.royalmeenakshimall.com</string>
+</resources>
