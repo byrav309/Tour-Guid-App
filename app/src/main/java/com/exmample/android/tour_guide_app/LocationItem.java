@@ -36,5 +36,4 @@ public class LocationItem {
         return imageResource;
     }
 
-
 }
